@@ -5,10 +5,7 @@ The basic idea is: Have one fixed Array of N particles and when they die Restart
 
 Example: 
 1000 spawned
-START -> timeseps... -> all die -> reset the particles --
-	^                                            |
-           |____________________________________________|
-           
+START -> timeseps... -> all die -> reset the particles.
 
 Just Include the ParticleSystem.h and have fun!
 
