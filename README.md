@@ -6,7 +6,7 @@ The basic idea is: Have one fixed Array of N particles and when they die Restart
 Example: 
 1000 spawned
 START -> timeseps... -> all die -> reset the particles --
-           ^                                            |
+	^                                            |
            |____________________________________________|
            
 
