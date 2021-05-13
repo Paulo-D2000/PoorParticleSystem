@@ -8,6 +8,7 @@ Example:
 START -> timeseps... -> all die -> reset the particles --
            ^                                            |
            |____________________________________________|
+           
 
 Just Include the ParticleSystem.h and have fun!
 
