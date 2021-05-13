@@ -12,3 +12,6 @@ START -> timeseps... -> all die -> reset the particles --
 Just Include the ParticleSystem.h and have fun!
 
 //Check main.cpp for one example implementation.
+
+
+***TODO ->*** Reset individual particles as them die, instead of waiting for all of them to die to reset.
